@@ -5,3 +5,4 @@ let res = x + y;
 console.log(res);
 console.log(x-y)
   
+console.log("***********************************************");
